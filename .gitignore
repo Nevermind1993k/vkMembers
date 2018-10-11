@@ -1,0 +1,14 @@
+/target/*
+data/
+.idea
+spring-boot-web-jsp.iml
+.project
+.settings
+.classpath
+.springBeans
+.DS_Store
+
+hibernate*
+
+*.class
+*.iml
